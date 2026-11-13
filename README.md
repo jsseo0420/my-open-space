@@ -2,8 +2,8 @@
 
 폰으로 한 바퀴 돌며 찍은 영상 하나에서 만든 가우시안 스플랫입니다.
 
-- 보기: 〔Pages 주소〕
-- 장면 파일: 〔Pages 주소〕/scene.sog
+- 보기: https://jsseo0420.github.io/my-open-space/
+- 장면 파일: https://jsseo0420.github.io/my-open-space/scene.sog
 
 ![뷰어 화면](shots/viewer.png)
 
